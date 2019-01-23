@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/client-combined-3.3.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cssparser-0.9.21.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/cucumber-reporting-3.16.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/htmlunit-driver-2.24.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/neko-htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/pdfbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/phantomjsdriver-1.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-examples-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-excelant-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/websocket-api-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/websocket-client-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/websocket-common-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Work space/LearnGitLabCI_RemoteRepo/LearnGitLabCI/Jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
